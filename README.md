@@ -85,6 +85,7 @@
 
 4. 链接
     * 将得到的一个或多个中间目标文件链接起来，得到库文件（不能有 main 函数）或可执行文件（有且只能有一个 main 函数）
+**编译详情**
 
 1. [C/C++：编译全过程——预处理、编译、汇编、链接（包含预处理指令：宏定义，文件包括、条件编译）](https://blog.csdn.net/qq_40765537/article/details/105940800)
 2. [C/C++预处理过程详细梳理（预处理步骤+宏定义#define/#include+inline函数+宏展开顺序+条件预处理+其它预处理定义）](https://blog.csdn.net/luolaihua2018/article/details/124067982)
